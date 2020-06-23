@@ -2,7 +2,7 @@
   "name": "demo",
   "description": "application created by thinkjs",
   "version": "1.0.0",
-  "author": "Aliex",
+  "author": "ALIEX7664 <814574525@qq.com>",
   "scripts": {
     "start": "node development.js",
     "test": "THINK_UNIT_TEST=1 nyc ava test/ && nyc report --reporter=html",
@@ -44,7 +44,7 @@
     "metadata": {
       "name": "demo",
       "description": "application created by thinkjs",
-      "author": "Aliex",
+      "author": "ALIEX7664 <814574525@qq.com>",
       "babel": true
     },
     "projectName": "demo",

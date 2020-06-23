@@ -36,13 +36,13 @@ exports.model = {
   },
   mysql: {
     handle: mysql,
-    database: '',
+    database: 'thinkjs', //数据库名
     prefix: 'think_',
     encoding: 'utf8',
     host: '127.0.0.1',
-    port: '',
+    port: '3306', //默认3306
     user: 'root',
-    password: 'root',
+    password: '139226',
     dateStrings: true
   }
 };

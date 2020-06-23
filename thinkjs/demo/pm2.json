@@ -2,7 +2,7 @@
   "apps": [{
     "name": "demo",
     "script": "production.js",
-    "cwd": "E:\LearningDemo\Project\Vue-shop\thinkjs\demo",
+    "cwd": "E:\LearningDemo\Project\Vue_Project_Demo\thinkjs\demo",
     "exec_mode": "fork",
     "max_memory_restart": "1G",
     "autorestart": true,
